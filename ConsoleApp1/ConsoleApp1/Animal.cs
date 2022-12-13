@@ -7,6 +7,11 @@ using static System.Console;
 namespace ConsoleApp1
 {
     class Animal
-    {
+    { 
+
+        public  int peso { get; set; }
+        public int color { get; set; }
+        public int patas { get; set; }
+        public string pais { get; set; }
     }
 }
