@@ -45,9 +45,9 @@
   <ItemGroup>
     <Compile Include="Animal.cs" />
     <Compile Include="Ballena.cs" />
-    <Compile Include="Jirafa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Puma.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
