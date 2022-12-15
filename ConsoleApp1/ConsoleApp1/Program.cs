@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Console;
+﻿using static System.Console;
 namespace ConsoleApp1
 {
     class Program
@@ -11,6 +6,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             WriteLine("Hola estamos practicando GIT");
+           
             ReadLine();
 
         }
